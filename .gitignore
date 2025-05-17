@@ -1,5 +1,6 @@
 .DS_Store
-data/output/
+data/output/  
+# el data/output si sale pero no se necesita subir al repositorio ya que queda para cada usuario su resultado
 
 
 # Byte-compiled / optimized / DLL files
